@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @SheetalShankarr
 - 👀 I’m interested in Web development, game development, cyber security, information security and ethical hacking.
-- 🌱 I’m currently learning Python, R and Angular
+- 🌱 I’m currently learning Python, HTML, CSS and Java.
 - 📫 How to reach me - sheetalshankar.or@gmail.com
 
 <!---
